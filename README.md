@@ -13,7 +13,6 @@ Aquí tienes un vistazo a las herramientas y lenguajes con los que trabajo:
 **Lenguajes de Programación:**
 * ☕ `Java`
 * ♯ `C#`
-* 🐍 `Python`
 * 🌐 `HTML` / `CSS`
 * 🐚 `Bash`
 
@@ -29,6 +28,7 @@ Aquí tienes un vistazo a las herramientas y lenguajes con los que trabajo:
 * 🌐 `WordPress` (Desarrollo Web / CMS)
 * 🎨 `Canva` (Diseño Gráfico)
 * ✏️ `Figma` (Prototipado UI/UX)
+* 🎞️ `Photoshop`
 
 ---
 
