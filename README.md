@@ -22,7 +22,7 @@
 
 Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Técnico en Sistemas Microinformáticos y Redes (SMR)**.
 
-Disfruto transformando necesidades reales en aplicaciones: desde las **APIs y bases de datos** hasta el frontend y la puesta en producción. He trabajado con proyectos web para clientes, comercio electrónico, automatización y SEO.
+Disfruto transformando necesidades reales en aplicaciones: desde las **APIs y bases de datos** hasta el frontend y la puesta en producción. Actualmente trabajo como **Full Stack Developer en Linkealia**, principalmente en el desarrollo de **aplicaciones a medida para negocios**. También participo en proyectos web y comercio electrónico.
 
 Me interesan especialmente el **backend**, el desarrollo **full stack** y la construcción de productos digitales claros, rápidos y mantenibles.
 
@@ -108,19 +108,21 @@ Me interesan especialmente el **backend**, el desarrollo **full stack** y la con
 
 <table><tr><td width="100%" valign="top">
 
-### Linkealia · Agencia de comunicación y marketing digital
+### Linkealia · Full Stack Developer
 
 <img src="https://img.shields.io/badge/EXPERIENCIA_ACTUAL-6EE7B7?style=flat-square&labelColor=0B1220&color=6EE7B7" alt="Experiencia profesional actual" />
+<img src="https://img.shields.io/badge/FOCO-APLICACIONES_A_MEDIDA-0B1220?style=flat-square&color=67E8F9" alt="Especialización en aplicaciones a medida" />
 
-**Full Stack Developer** · Actualidad
+**Full Stack Developer · Actualidad**
 
-Trabajo en proyectos digitales para clientes reales, combinando desarrollo web con optimización de experiencias comerciales.
+Mi trabajo se centra principalmente en **diseñar y desarrollar aplicaciones a medida para empresas**, transformando sus necesidades y procesos en herramientas digitales útiles para el negocio.
 
-- Desarrollo y personalización de **sitios web corporativos y tiendas online**, principalmente con WordPress y WooCommerce.
-- **Maquetación e integraciones** para adaptar las plataformas a necesidades concretas.
-- **Automatizaciones y CRM**, incluyendo herramientas como Clientify.
-- **SEO on-page, GEO y contenidos digitales**, con atención a la visibilidad y conversión.
-- Coordinación de soluciones técnicas en un entorno de agencia.
+- **Aplicaciones empresariales personalizadas:** desarrollo full stack de soluciones adaptadas a los procesos y objetivos de cada cliente.
+- **Frontend y backend:** desarrollo de interfaces, lógica de negocio, integración de servicios y gestión de datos.
+- **Automatización y herramientas internas:** mejora de flujos de trabajo y conexión entre plataformas cuando el proyecto lo requiere.
+- **Desarrollo web:** creación y personalización de webs corporativas y tiendas online, incluyendo proyectos con WordPress y WooCommerce.
+
+Mi enfoque combina **desarrollo de software, resolución de problemas reales y visión de negocio**.
 
 </td></tr></table>
 
