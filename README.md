@@ -1,127 +1,140 @@
+<!-- Portfolio README — Juan José Gamero López. Custom SVG artwork is stored in /assets. -->
 <div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Juan José Gamero López — Software Developer · Full Stack · Backend" />
 
-# Juan José Gamero López
+  <br/>
 
-**Software Developer · Full Stack · Web & Backend**
+  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-gamero-l%C3%B3pez-76326b27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0B1220?style=for-the-badge&logo=linkedin&logoColor=6EE7B7" /></a>
+  <a href="mailto:juanjosegamerolopez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-CONTACTAR-0B1220?style=for-the-badge&logo=gmail&logoColor=67E8F9" /></a>
+  <a href="https://about.nexus-app.es/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-EXPLORAR-0B1220?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD" /></a>
 
-Desarrollo aplicaciones y experiencias digitales poniendo el foco en la utilidad, el diseño y una arquitectura mantenible.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-gamero-l%C3%B3pez-76326b27a/)
-[![Email](https://img.shields.io/badge/Email-Contacto-30363D?style=flat-square&logo=gmail&logoColor=white)](mailto:juanjosegamerolopez@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Nexus-30363D?style=flat-square&logo=googlechrome&logoColor=white)](https://about.nexus-app.es/)
-
+  <br/><br/>
+  <strong>Desarrollo soluciones de software con mentalidad de producto.</strong><br/>
+  <sub>Arquitectura · Diseño · Desarrollo · Despliegue</sub>
 </div>
 
----
+<br/>
 
-## Sobre mí
+## 01 — Sobre mí
+
+<table>
+<tr><td width="68%" valign="top">
 
 Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Técnico en Sistemas Microinformáticos y Redes (SMR)**.
 
-Me gusta abordar un proyecto de principio a fin: comprender el problema, diseñar los datos y las APIs, construir una interfaz clara y preparar su despliegue. Tengo experiencia en proyectos web para clientes, comercio electrónico, SEO y automatización de procesos.
+Disfruto transformando necesidades reales en aplicaciones: desde las **APIs y bases de datos** hasta el frontend y la puesta en producción. He trabajado con proyectos web para clientes, comercio electrónico, automatización y SEO.
 
-Mi objetivo es seguir creciendo como desarrollador **full stack / backend**, aportando tanto criterio técnico como atención al producto y a las personas que lo utilizan.
+Me interesan especialmente el **backend**, el desarrollo **full stack** y la construcción de productos digitales claros, rápidos y mantenibles.
 
-## Tecnologías y herramientas
+</td><td width="32%" valign="top">
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend** | Java, Spring Boot, APIs REST, Python, PHP |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, Angular, React, Astro |
-| **Datos** | PostgreSQL, MySQL, MongoDB, Prisma |
-| **Infraestructura** | Linux, Docker, Git, GitHub, despliegue VPS |
-| **Producto y diseño** | Figma, UI/UX, WordPress, WooCommerce, SEO técnico |
+**Mi enfoque**
 
-<sub>El listado reúne tecnologías utilizadas en formación, proyectos y experiencia profesional; no implica el mismo nivel de especialización en todas ellas.</sub>
+`01` Entender el problema
 
-## Proyectos destacados
+`02` Diseñar la solución
+
+`03` Construir y probar
+
+`04` Desplegar y mejorar
+
+</td></tr>
+</table>
+
+## 02 — Stack tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,react,astro,html,css&theme=dark&perline=9" alt="Java, Spring, TypeScript, JavaScript, Angular, React, Astro, HTML y CSS" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,python,docker,linux,git,github,figma&theme=dark&perline=9" alt="PostgreSQL, MySQL, MongoDB, Python, Docker, Linux, Git, GitHub y Figma" />
+</div>
+
+<br/>
+
+| **Desarrollo** | **Infraestructura y producto** |
+| :-- | :-- |
+| Java · Spring Boot · APIs REST | Linux · Docker · VPS |
+| JavaScript · TypeScript · Angular · React · Astro | Git · GitHub · PostgreSQL · MySQL |
+| HTML · CSS · C# · .NET | Figma · WordPress · WooCommerce · SEO |
+
+<sub>Herramientas utilizadas en distintos proyectos y etapas de formación; no todas representan el mismo nivel de especialización.</sub>
+
+## 03 — Proyectos destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### [Nexus App](https://github.com/SomosNexusApp)
-
-**Proyecto académico en equipo · Aplicación multiplataforma**
-
-Ecosistema de marketplace y ofertas, con API backend, aplicación web, experiencia móvil y administración.
-
-**Stack:** Java, Spring Boot, Angular, PostgreSQL, Docker.
-
-[Ver backend](https://github.com/SomosNexusApp/nexus-backend)
-
+<a href="https://github.com/SomosNexusApp"><img width="100%" src="./assets/nexus.svg" alt="Nexus App: plataforma multiplataforma" /></a>
+<br/>
+<strong>Nexus App</strong> · Proyecto académico en equipo<br/>
+<sub>Marketplace y ofertas con backend, frontend, experiencia móvil y administración.</sub>
+<br/><br/>
+<a href="https://github.com/SomosNexusApp/nexus-backend">Explorar backend ↗</a>
 </td>
 <td width="50%" valign="top">
-
-### [Depofibra — Website](https://github.com/juanjogamero/website-depofibra)
-
-**Proyecto web corporativo · Catálogo PRFV**
-
-Web corporativa con catálogo de productos, diseño responsive, estructura basada en componentes y enfoque SEO.
-
-**Stack:** Astro 7, HTML, CSS.
-
-[Ver web](https://depofibra.com/)
-
+<a href="https://github.com/juanjogamero/website-depofibra"><img width="100%" src="./assets/depofibra.svg" alt="Depofibra: web corporativa Astro" /></a>
+<br/>
+<strong>Depofibra</strong> · Proyecto web comercial<br/>
+<sub>Catálogo PRFV, diseño responsive y arquitectura web basada en componentes.</sub>
+<br/><br/>
+<a href="https://depofibra.com/">Visitar web oficial ↗</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### [API MrRebujito](https://github.com/juanjogamero/API-MrRebujito)
-
-**Aplicación de gestión · Backend**
-
-Sistema de gestión de ferias con casetas, socios, cartas y licencias municipales.
-
-**Stack:** Java, Spring Boot, JWT.
-
-[Ver repositorio](https://github.com/juanjogamero/API-MrRebujito)
-
+<a href="https://github.com/juanjogamero/API-MrRebujito"><img width="100%" src="./assets/mrrebujito.svg" alt="API MrRebujito: gestión de ferias" /></a>
+<br/>
+<strong>MrRebujito</strong> · Aplicación de gestión<br/>
+<sub>Gestión de casetas, socios, cartas y licencias municipales con Java y Spring Boot.</sub>
+<br/><br/>
+<a href="https://github.com/juanjogamero/API-MrRebujito">Ver repositorio ↗</a>
 </td>
 <td width="50%" valign="top">
-
-### [DesarrolloJJGL](https://github.com/juanjogamero/DesarrolloJJGL)
-
-**Laboratorio de desarrollo · .NET**
-
-Colección de ejercicios y proyectos centrados en programación orientada a objetos, interfaces y desarrollo multiplataforma.
-
-**Stack:** C#, WPF, .NET MAUI, XAML.
-
-[Ver repositorio](https://github.com/juanjogamero/DesarrolloJJGL)
-
+<a href="https://github.com/juanjogamero/DesarrolloJJGL"><img width="100%" src="./assets/desarrollo.svg" alt="DesarrolloJJGL: proyectos C# y .NET" /></a>
+<br/>
+<strong>DesarrolloJJGL</strong> · Laboratorio .NET<br/>
+<sub>Proyectos y ejercicios de POO, interfaces XAML, WPF y .NET MAUI.</sub>
+<br/><br/>
+<a href="https://github.com/juanjogamero/DesarrolloJJGL">Explorar código ↗</a>
 </td>
 </tr>
 </table>
 
-## Experiencia aplicada
+<div align="center"><sub><a href="https://github.com/juanjogamero?tab=repositories">Ver todos mis repositorios</a></sub></div>
 
-He trabajado en un entorno de agencia con necesidades reales de negocio, combinando desarrollo y tareas digitales:
+<br/>
 
-- Creación y personalización de sitios corporativos y tiendas online.
-- Trabajo con **WordPress, WooCommerce** e integraciones.
-- SEO on-page, contenidos digitales y mejora de la experiencia de usuario.
-- Automatización de tareas y gestión de herramientas CRM.
-- Comunicación con clientes, análisis de requisitos y soluciones orientadas al resultado.
+## 04 — Experiencia real
 
-También desarrollo proyectos propios con especial atención a la **experiencia de usuario, el rendimiento y la mantenibilidad**.
+**Desarrollo web · Agencia digital y proyectos comerciales**
 
-## Formación
+- Desarrollo y personalización de **webs corporativas y e-commerce**.
+- Integraciones, automatización de procesos y herramientas **CRM**.
+- Optimización **SEO**, contenidos y mejora de la experiencia de usuario.
+- Trabajo sobre necesidades reales de clientes, desde la propuesta hasta la implementación.
 
-| Titulación | Centro | Período |
-| :--- | :--- | :--- |
-| Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) | IES Francisco Rodríguez Marín | 2024–2026 |
-| Técnico en Sistemas Microinformáticos y Redes (SMR) | IES Herrera | 2022–2024 |
+La experiencia profesional me ha enseñado a unir **criterio técnico, comunicación y objetivos de negocio**.
 
-**Formación complementaria:** fundamentos de redes (Cisco Networking Academy), Java y diseño UI/UX con Figma.
+## 05 — Formación
 
-## Contacto
+| Estudios | Centro | Período |
+| :-- | :-- | :-- |
+| **Desarrollo de Aplicaciones Multiplataforma (DAM)** | IES Francisco Rodríguez Marín | 2024–2026 |
+| **Sistemas Microinformáticos y Redes (SMR)** | IES Herrera | 2022–2024 |
 
-Estoy abierto a conectar con profesionales del sector, colaborar en proyectos y conocer oportunidades de desarrollo de software.
+<sub>Formación complementaria en redes (Cisco Networking Academy), Java y diseño UI/UX con Figma.</sub>
 
-**[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-gamero-l%C3%B3pez-76326b27a/)** · **[Correo electrónico](mailto:juanjosegamerolopez@gmail.com)** · **[GitHub](https://github.com/juanjogamero)**
+<br/>
 
----
+<div align="center">
 
-<div align="center"><sub>De la idea al desarrollo y al despliegue.</sub></div>
+## ¿Hablamos?
+
+Me interesa colaborar en proyectos de software y seguir creciendo en equipos de desarrollo.
+
+<a href="mailto:juanjosegamerolopez@gmail.com"><img src="https://img.shields.io/badge/ENVIAR_UN_EMAIL-6EE7B7?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="Enviar email" /></a>
+<a href="https://www.linkedin.com/in/juan-jos%C3%A9-gamero-l%C3%B3pez-76326b27a/"><img src="https://img.shields.io/badge/CONECTAR_EN_LINKEDIN-67E8F9?style=for-the-badge&logo=linkedin&logoColor=0B1220" alt="Conectar en LinkedIn" /></a>
+
+<br/><br/>
+<sub>JUAN JOSÉ GAMERO LÓPEZ · FROM IDEA TO DEPLOYMENT</sub>
+</div>
