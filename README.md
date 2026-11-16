@@ -1,109 +1,127 @@
-<!--
-  GitHub Profile README | Juan José Gamero López
-  Recursos visuales originales en ./assets/. Sin emojis ni estadísticas ficticias.
-  Para visualizarlo en el perfil de GitHub, crea un repositorio público
-  que tenga exactamente el mismo nombre que tu usuario de GitHub.
--->
-
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Juan José Gamero López · Full Stack Developer" />
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-gamero-l%C3%B3pez-76326b27a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-1B2536?style=for-the-badge&logo=linkedin&logoColor=A7F3D0&labelColor=111827" /></a>
-  <a href="mailto:juanjosegamerolopez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contacto-1B2536?style=for-the-badge&logo=gmail&logoColor=BAA8FF&labelColor=111827" /></a>
-  <a href="https://about.nexus-app.es/"><img alt="Portfolio técnico Nexus" src="https://img.shields.io/badge/Nexus-Ver%20proyecto-1B2536?style=for-the-badge&logo=github&logoColor=A7F3D0&labelColor=111827" /></a>
+
+# Juan José Gamero López
+
+**Software Developer · Full Stack · Web & Backend**
+
+Desarrollo aplicaciones y experiencias digitales poniendo el foco en la utilidad, el diseño y una arquitectura mantenible.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-gamero-l%C3%B3pez-76326b27a/)
+[![Email](https://img.shields.io/badge/Email-Contacto-30363D?style=flat-square&logo=gmail&logoColor=white)](mailto:juanjosegamerolopez@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Nexus-30363D?style=flat-square&logo=googlechrome&logoColor=white)](https://about.nexus-app.es/)
+
 </div>
 
-<br/>
+---
 
-## 01 / Sobre mí
+## Sobre mí
 
-Soy **desarrollador de software y técnico superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**, con formación previa en **Sistemas Microinformáticos y Redes (SMR)**.
+Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Técnico en Sistemas Microinformáticos y Redes (SMR)**.
 
-Me interesa crear soluciones completas: desde el diseño de una API y el modelado de datos hasta una interfaz bien pensada y su despliegue. Combino la base técnica de **Java, Spring Boot y Angular** con conocimientos de infraestructura, contenedores y diseño de producto.
+Me gusta abordar un proyecto de principio a fin: comprender el problema, diseñar los datos y las APIs, construir una interfaz clara y preparar su despliegue. Tengo experiencia en proyectos web para clientes, comercio electrónico, SEO y automatización de procesos.
 
-Mi experiencia en agencia también me ha permitido trabajar con **proyectos y necesidades reales de clientes**, comercio electrónico, automatizaciones y optimización de procesos digitales.
+Mi objetivo es seguir creciendo como desarrollador **full stack / backend**, aportando tanto criterio técnico como atención al producto y a las personas que lo utilizan.
 
-<table>
-  <tr>
-    <td width="33%" align="center"><strong>12 meses</strong><br/><sub>Experiencia en agencia</sub></td>
-    <td width="33%" align="center"><strong>DAM + SMR</strong><br/><sub>Software, sistemas y redes</sub></td>
-    <td width="33%" align="center"><strong>End-to-end</strong><br/><sub>Diseño · Desarrollo · Despliegue</sub></td>
-  </tr>
-</table>
+## Tecnologías y herramientas
 
-## 02 / Tecnologías
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, APIs REST, Python, PHP |
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, Angular, React, Astro |
+| **Datos** | PostgreSQL, MySQL, MongoDB, Prisma |
+| **Infraestructura** | Linux, Docker, Git, GitHub, despliegue VPS |
+| **Producto y diseño** | Figma, UI/UX, WordPress, WooCommerce, SEO técnico |
 
-**Stack principal** · tecnologías con las que he construido soluciones web y multiplataforma.
+<sub>El listado reúne tecnologías utilizadas en formación, proyectos y experiencia profesional; no implica el mismo nivel de especialización en todas ellas.</sub>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,postgres,docker,linux,git&theme=dark&perline=8" alt="Java, Spring Boot, Angular, TypeScript, PostgreSQL, Docker, Linux y Git" />
-</p>
-
-**Otras herramientas y experiencia transversal** · frontend, móvil, datos y diseño.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,py,php,mysql,mongodb,flutter,figma,wordpress&theme=dark&perline=9" alt="React, JavaScript, Python, PHP, MySQL, MongoDB, Flutter, Figma y WordPress" />
-</p>
-
-<sub>También: APIs REST · Hibernate · WebSockets · JWT · Android nativo · WooCommerce · Proxmox · Windows Server.</sub>
-
-## 03 / Proyectos seleccionados
-
-### Nexus App · Plataforma multiplataforma
-
-<a href="https://github.com/SomosNexusApp"><img src="./assets/nexus.svg" width="100%" alt="Nexus App · Plataforma de marketplace y ofertas con Spring Boot, Angular, PostgreSQL y Android" /></a>
-
-Proyecto académico desarrollado **en equipo**: un ecosistema de marketplace y búsqueda de ofertas con aplicación web, experiencia móvil Android, API backend y panel de administración.
-
-**Aspectos técnicos destacados:** arquitectura desacoplada, autenticación con JWT y 2FA, integración de pagos con Stripe, chat mediante WebSockets (STOMP), PostgreSQL, Docker y despliegue en servicios cloud.
-
-[Backend / Spring Boot](https://github.com/SomosNexusApp/nexus-backend) &nbsp;·&nbsp; [Web y móvil / Angular](https://github.com/SomosNexusApp/nexus-angular-app) &nbsp;·&nbsp; [Panel de administración](https://github.com/SomosNexusApp/nexus-admin-web-app) &nbsp;·&nbsp; [Documentación](https://github.com/SomosNexusApp/nexus-web-about)
-
-<br/>
+## Proyectos destacados
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/mrrebujito.svg" width="100%" alt="MrRebujito, plataforma web full stack" />
-      <p><strong>MrRebujito</strong></p>
-      <p>Proyecto de aplicación web con backend en <strong>Java / Spring Boot</strong>, interfaz adaptable y trabajo de identidad visual y UI/UX.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/lepokedex.svg" width="100%" alt="LePokedex, aplicación Android nativa" />
-      <p><strong>LePokedex</strong></p>
-      <p>Aplicación nativa para Android desarrollada con <strong>Java y Android Studio</strong>, navegación entre pantallas y componentes dinámicos en XML.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Nexus App](https://github.com/SomosNexusApp)
+
+**Proyecto académico en equipo · Aplicación multiplataforma**
+
+Ecosistema de marketplace y ofertas, con API backend, aplicación web, experiencia móvil y administración.
+
+**Stack:** Java, Spring Boot, Angular, PostgreSQL, Docker.
+
+[Ver backend](https://github.com/SomosNexusApp/nexus-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### [Depofibra — Website](https://github.com/juanjogamero/website-depofibra)
+
+**Proyecto web corporativo · Catálogo PRFV**
+
+Web corporativa con catálogo de productos, diseño responsive, estructura basada en componentes y enfoque SEO.
+
+**Stack:** Astro 7, HTML, CSS.
+
+[Ver web](https://depofibra.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [API MrRebujito](https://github.com/juanjogamero/API-MrRebujito)
+
+**Aplicación de gestión · Backend**
+
+Sistema de gestión de ferias con casetas, socios, cartas y licencias municipales.
+
+**Stack:** Java, Spring Boot, JWT.
+
+[Ver repositorio](https://github.com/juanjogamero/API-MrRebujito)
+
+</td>
+<td width="50%" valign="top">
+
+### [DesarrolloJJGL](https://github.com/juanjogamero/DesarrolloJJGL)
+
+**Laboratorio de desarrollo · .NET**
+
+Colección de ejercicios y proyectos centrados en programación orientada a objetos, interfaces y desarrollo multiplataforma.
+
+**Stack:** C#, WPF, .NET MAUI, XAML.
+
+[Ver repositorio](https://github.com/juanjogamero/DesarrolloJJGL)
+
+</td>
+</tr>
 </table>
 
-<sub>La documentación de MrRebujito y LePokedex figura en mi perfil de LinkedIn; aquí no incluyo enlaces a repositorios que no he podido verificar como públicos.</sub>
+## Experiencia aplicada
 
-## 04 / Experiencia y enfoque
+He trabajado en un entorno de agencia con necesidades reales de negocio, combinando desarrollo y tareas digitales:
 
-**Linkealia · Agencia de comunicación** — Trabajando actualmente como Full Stack Developer
+- Creación y personalización de sitios corporativos y tiendas online.
+- Trabajo con **WordPress, WooCommerce** e integraciones.
+- SEO on-page, contenidos digitales y mejora de la experiencia de usuario.
+- Automatización de tareas y gestión de herramientas CRM.
+- Comunicación con clientes, análisis de requisitos y soluciones orientadas al resultado.
 
-- Desarrollo, personalización y maquetación de webs corporativas y tiendas online con **WordPress y WooCommerce**.
-- Integración de pasarelas de pago, personalizaciones técnicas y mejora de flujos de conversión.
-- Automatizaciones y gestión de CRM, especialmente **Clientify**.
-- Trabajo con **SEO on-page, GEO, contenidos digitales y Google Ads**.
+También desarrollo proyectos propios con especial atención a la **experiencia de usuario, el rendimiento y la mantenibilidad**.
 
-**También me interesa el diseño de producto.** En proyectos como **unESPACIO** he trabajado la identidad visual, el sistema gráfico y el diseño de packaging: una perspectiva que me ayuda a conectar el código con la experiencia del usuario.
+## Formación
 
-## 05 / Formación
+| Titulación | Centro | Período |
+| :--- | :--- | :--- |
+| Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) | IES Francisco Rodríguez Marín | 2024–2026 |
+| Técnico en Sistemas Microinformáticos y Redes (SMR) | IES Herrera | 2022–2024 |
 
-| Formación | Centro | Período |
-| :-- | :-- | :-- |
-| **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** | IES Francisco Rodríguez Marín | 2024–2026 |
-| **Técnico en Sistemas Microinformáticos y Redes** | IES Herrera | 2022–2024 |
+**Formación complementaria:** fundamentos de redes (Cisco Networking Academy), Java y diseño UI/UX con Figma.
 
-**Formación complementaria:** Fundamentos de Redes (Cisco Networking Academy), Java y diseño UI/UX con Figma (OpenWebinars).
+## Contacto
 
-## 06 / Contacto
+Estoy abierto a conectar con profesionales del sector, colaborar en proyectos y conocer oportunidades de desarrollo de software.
 
-Me interesa seguir creciendo en **desarrollo full stack y backend**, participar en proyectos con retos reales y colaborar con equipos que valoren tanto el código como la calidad del producto.
+**[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-gamero-l%C3%B3pez-76326b27a/)** · **[Correo electrónico](mailto:juanjosegamerolopez@gmail.com)** · **[GitHub](https://github.com/juanjogamero)**
 
-**[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-gamero-l%C3%B3pez-76326b27a/)** &nbsp; / &nbsp; **[Correo electrónico](mailto:juanjosegamerolopez@gmail.com)**
+---
 
-<div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="From idea to deployment" />
-</div>
+<div align="center"><sub>De la idea al desarrollo y al despliegue.</sub></div>
