@@ -90,12 +90,12 @@ Me interesan especialmente el **backend**, el desarrollo **full stack** y la con
 <a href="https://github.com/juanjogamero/API-MrRebujito">Ver repositorio ↗</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/juanjogamero/DesarrolloJJGL"><img width="100%" src="./assets/desarrollo.svg" alt="DesarrolloJJGL: proyectos C# y .NET" /></a>
+<a href="https://github.com/juanjogamero/GranZonaMarciana"><img width="100%" src="./assets/desarrollo.svg" alt="Gran Zona Marciana: aplicación Android con Java y Room" /></a>
 <br/>
-<strong>DesarrolloJJGL</strong> · Laboratorio .NET<br/>
-<sub>Proyectos y ejercicios de POO, interfaces XAML, WPF y .NET MAUI.</sub>
+<strong>Gran Zona Marciana</strong> · Aplicación Android<br/>
+<sub>Aplicación nativa para gestionar concursantes, galas, ediciones, inscripciones y votaciones mediante Java y Room.</sub>
 <br/><br/>
-<a href="https://github.com/juanjogamero/DesarrolloJJGL">Explorar código ↗</a>
+<a href="https://github.com/juanjogamero/GranZonaMarciana">Ver proyecto Android ↗</a>
 </td>
 </tr>
 </table>
@@ -106,14 +106,25 @@ Me interesan especialmente el **backend**, el desarrollo **full stack** y la con
 
 ## 04 — Experiencia real
 
-**Desarrollo web · Agencia digital y proyectos comerciales**
+<table><tr><td width="100%" valign="top">
 
-- Desarrollo y personalización de **webs corporativas y e-commerce**.
-- Integraciones, automatización de procesos y herramientas **CRM**.
-- Optimización **SEO**, contenidos y mejora de la experiencia de usuario.
-- Trabajo sobre necesidades reales de clientes, desde la propuesta hasta la implementación.
+### Linkealia · Agencia de comunicación y marketing digital
 
-La experiencia profesional me ha enseñado a unir **criterio técnico, comunicación y objetivos de negocio**.
+<img src="https://img.shields.io/badge/EXPERIENCIA_ACTUAL-6EE7B7?style=flat-square&labelColor=0B1220&color=6EE7B7" alt="Experiencia profesional actual" />
+
+**Full Stack Developer** · Actualidad
+
+Trabajo en proyectos digitales para clientes reales, combinando desarrollo web con optimización de experiencias comerciales.
+
+- Desarrollo y personalización de **sitios web corporativos y tiendas online**, principalmente con WordPress y WooCommerce.
+- **Maquetación e integraciones** para adaptar las plataformas a necesidades concretas.
+- **Automatizaciones y CRM**, incluyendo herramientas como Clientify.
+- **SEO on-page, GEO y contenidos digitales**, con atención a la visibilidad y conversión.
+- Coordinación de soluciones técnicas en un entorno de agencia.
+
+</td></tr></table>
+
+Esta experiencia complementa mis proyectos de software y refuerza mi enfoque de **desarrollo orientado a producto, usuarios y objetivos de negocio**.
 
 ## 05 — Formación
 
